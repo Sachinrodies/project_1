@@ -79,6 +79,8 @@ section{
     background-position: center;
     background-size: cover;
     height: 500px;
+    background-size: cover;
+    background-position: center;
 }
 
 .desc{
@@ -90,7 +92,7 @@ section{
    transform: translate(-50%);
    color: black;
    font-size: 3.5rem;
-   font-weight: 300px;
+   font-weight: 300;
 
 
 }
